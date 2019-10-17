@@ -1,0 +1,10 @@
+#+STARTUP: showall
+
+* catdog-platformer
+
+2D platformer game (to be) made the course of 8 weeks.
+
+The following prompts were given:
+- Cat-Dog
+- Platformer
+- MsPaint with mouse (for art assets) 
