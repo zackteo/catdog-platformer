@@ -313,8 +313,8 @@ InputManager:
     m_Name: Horizontal_P2
     descriptiveName: 
     descriptiveNegativeName: 
-    negativeButton: left
-    positiveButton: right
+    negativeButton: j
+    positiveButton: l
     altNegativeButton: 
     altPositiveButton: joystick button 1
     gravity: 1000
@@ -330,7 +330,7 @@ InputManager:
     descriptiveName: 
     descriptiveNegativeName: 
     negativeButton: 
-    positiveButton: up
+    positiveButton: i
     altNegativeButton: 
     altPositiveButton: joystick button 1
     gravity: 1000
@@ -346,7 +346,7 @@ InputManager:
     descriptiveName: 
     descriptiveNegativeName: 
     negativeButton: 
-    positiveButton: down
+    positiveButton: k
     altNegativeButton: 
     altPositiveButton: joystick button 1
     gravity: 1000
