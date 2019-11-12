@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Gem
   - Gamemaster
+  - Player2
   layers:
   - Default
   - TransparentFX
